@@ -43,7 +43,7 @@ FoodFinder is a cutting-edge application designed to revolutionize the way you e
 
 ### Installation
 Clone the repository to your local machine:
-`
+
 git clone https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main.git
 
 ```

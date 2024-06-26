@@ -7,8 +7,7 @@ https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommend
 
 # FoodFinder: Discover Your Next Favorite Restaurant
 
-## Live Demo
-Experience FoodFinder in action! Visit the [FoodFinder Streamlit App](https://tastematch.streamlit.app/) to see how our innovative solution transforms the way you discover and enjoy new restaurants.
+
 
 https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main
 

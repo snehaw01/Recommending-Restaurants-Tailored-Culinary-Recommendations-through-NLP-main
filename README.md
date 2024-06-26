@@ -1,6 +1,9 @@
 
 
-https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main/assets/154721226/f739eac8-7bac-4003-a335-26eaa3b32b94
+https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main/assets/154721226/db54cbc5-a77c-417a-a6e4-3dd3928464dc
+
+
+
 
 # FoodFinder: Discover Your Next Favorite Restaurant
 

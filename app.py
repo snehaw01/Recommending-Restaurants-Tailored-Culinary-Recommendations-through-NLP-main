@@ -667,8 +667,8 @@ def create_profile(profile_select):
                     st.info("No reviews available")
 
 def app():
-    img = Image.open('logo2.png')
-    st.set_page_config(page_title='TasteMatch - Discover Your Next Favorite Restaurant',
+    img = Image.open('/Users/snehaw/Downloads/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main/Yellow Emblem Restaurant Logo.png')
+    st.set_page_config(page_title='FoodFinder - Discover Your Next Favorite Restaurant',
                    layout = "wide",page_icon=img)
     hide_st_style = """
             <style>

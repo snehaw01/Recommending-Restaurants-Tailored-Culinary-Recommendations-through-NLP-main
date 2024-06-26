@@ -1,13 +1,13 @@
-# TasteMatch: Discover Your Next Favorite Restaurant
+# FoodFinder: Discover Your Next Favorite Restaurant
 
 ## Live Demo
-Experience TasteMatch in action! Visit the [TasteMatch Streamlit App](https://tastematch.streamlit.app/) to see how our innovative solution transforms the way you discover and enjoy new restaurants.
+Experience FoodFinder in action! Visit the [FoodFinder Streamlit App](https://tastematch.streamlit.app/) to see how our innovative solution transforms the way you discover and enjoy new restaurants.
 
-https://github.com/sathishprasad/Restauarant-Recommendation/assets/62458381/dc0fed1e-6adb-4d75-a129-ab5a5a634164
+https://github.com/snehaw01/Recommending-Restaurants-Tailored-Culinary-Recommendations-through-NLP-main
 
 
 ## Project Overview
-TasteMatch is a cutting-edge application designed to revolutionize the way you explore and discover new restaurants. Leveraging advanced Natural Language Processing (NLP) and Word2Vec algorithms, TasteMatch analyzes extensive restaurant reviews to offer you personalized dining recommendations. Say goodbye to the uncertainty of trying new places and hello to a world of culinary adventures tailored to your taste!
+FoodFinder is a cutting-edge application designed to revolutionize the way you explore and discover new restaurants. Leveraging advanced Natural Language Processing (NLP) and Word2Vec algorithms, FoodFinder analyzes extensive restaurant reviews to offer you personalized dining recommendations. Say goodbye to the uncertainty of trying new places and hello to a world of culinary adventures tailored to your taste!
 
 ## Technology Used
 - **Natural Language Processing (NLP)**: Employs NLP techniques to analyze restaurant reviews.
@@ -52,4 +52,4 @@ streamlit run app.py
 2. Select your favorite restaurant from the dropdown menu.
 3. Explore the list of recommended restaurants based on similar user reviews.
 
-Happy Dining Exploration with TasteMatch!
+Happy Dining Exploration with FoodFinder!
